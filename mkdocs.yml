@@ -1,0 +1,8 @@
+site_name: "ph-cid-serverless-demo"
+site_description: "serverless app demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
